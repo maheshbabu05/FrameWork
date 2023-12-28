@@ -1,0 +1,7 @@
+2023-12-28 03:24:57 INFO  CommonClass:37 - MaaS begning
+2023-12-28 03:24:57 INFO  CommonClass:38 - loading the prop file
+2023-12-28 03:24:57 INFO  CommonClass:50 - launch Chrome
+2023-12-28 03:25:06 INFO  CommonClass:58 - Navigate to app
+2023-12-28 03:25:17 INFO  OfferingPage_TC:17 - Log into application
+2023-12-28 03:25:17 INFO  OfferingPage_TC:24 - Into Offering page 
+2023-12-28 03:25:17 INFO  CommonClass:71 - Close the app

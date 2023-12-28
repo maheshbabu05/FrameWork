@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name = "MT Maas">
+
+
+<test name ="Login page">
+<classes>
+<class name="TestCase.Login_page_TC">
+</class>
+</classes>
+</test>
+
+<test name ="offering page">
+<classes>
+<class name="TestCase.OfferingPage_TC">
+</class>
+</classes>
+</test>
+
+<test name = "Dashboard page">
+<classes>
+<class name="TestCase.DashboardPage_TC">
+</class>
+</classes>
+</test>
+ 
+
+
+</suite>
